@@ -18,6 +18,10 @@ Fun logos & symbols
 [Outer Wilds](https://www.mobiusdigitalgames.com/outer-wilds.html)
 ![EYE_OF_THE_UNIVERSE](./screenshots/EYE_OF_THE_UNIVERSE.png)
 
+#### KSP_LOGO
+[Kerbal Space Program](https://www.kerbalspaceprogram.com/)
+![KSP_LOGO](./screenshots/KSP_LOGO.png)
+
 #### SUPER_EARTH
 [Helldivers 2](https://www.arrowheadgamestudios.com/)
 ![SUPER_EARTH](./screenshots/SUPER_EARTH.png)
