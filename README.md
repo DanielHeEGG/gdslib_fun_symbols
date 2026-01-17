@@ -22,6 +22,10 @@ Fun logos & symbols
 [Kerbal Space Program](https://www.kerbalspaceprogram.com/)
 ![KSP_LOGO](./screenshots/KSP_LOGO.png)
 
+#### MIT_LOGO
+[Massachusetts Institute of Technology](https://www.mit.edu/)
+![MIT_LOGO](./screenshots/MIT_LOGO.png)
+
 #### SUPER_EARTH
 [Helldivers 2](https://www.arrowheadgamestudios.com/)
 ![SUPER_EARTH](./screenshots/SUPER_EARTH.png)
